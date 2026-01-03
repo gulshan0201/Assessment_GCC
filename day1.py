@@ -9,9 +9,9 @@
 # 2. Write a program to read two numbers from the user and compute – 1st number to the power of the 2nd number.
 # Input 5 and 2 
 
-a = float(input())
-b = float(input())
+# a = float(input())
+# b = float(input())
 
-result = a ** b
+# result = a ** b
 
-print(f"{result:.2f}")
+# print(f"{result:.2f}")
